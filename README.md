@@ -13,14 +13,5 @@
 ```bash
 npm install @react-form-builder/core @react-form-builder/components-rsuite
 
-
-
-
-
-<!--[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)-->
-<!--[![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)-->
-<!--[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)-->
-<!--[![GitHub stars](https://img.shields.io/github/stars/optimajet/formengine?style=for-the-badge&logo=github&color=4286F4)](https://github.com/optimajet/formengine/stargazers)-->
-<!--[![GitHub forks](https://img.shields.io/github/forks/optimajet/formengine?style=for-the-badge&logo=github&color=4286F4)](https://github.com/optimajet/formengine/network/members)-->
-<!--![Formengine](./readme-assets/Formengine_bigpicture_1.png)-->
+README на GitHub
 
