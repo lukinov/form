@@ -13,5 +13,3 @@
 ```bash
 npm install @react-form-builder/core @react-form-builder/components-rsuite
 
-README на GitHub
-
