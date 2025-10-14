@@ -10,8 +10,14 @@
 [![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-brightgreen?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
 
-[![Give us a Star](https://img.shields.io/badge/⭐️_Give_us_a_star-FFD700?style=for-the-badge)](https://github.com/optimajet/formengine/stargazers)
+[![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_Try-AI-Form-FFD700?style=for-the-badge)](https://formengine.io/ai-form-builder)
+
 [![Give us a Star](https://img.shields.io/badge/⭐️_Give_us_a_star-FF69B4?style=for-the-badge)](https://github.com/optimajet/formengine/stargazers)
+
+
+
+
+
 <!-- ================================================================ -->
 
 
