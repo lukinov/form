@@ -1,0 +1,5 @@
+[![License](https://img.shields.io/npm/l/@react-form-builder/core)](https://github.com/optimajet/formengine/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/optimajet/formengine)](https://github.com/optimajet/formengine/graphs/contributors)
+[![npm](https://img.shields.io/npm/v/@react-form-builder/core)](https://www.npmjs.com/package/@react-form-builder/core)
+[![npm](https://img.shields.io/npm/dm/@react-form-builder/core)](https://www.npmjs.com/package/@react-form-builder/core)
+[![Help wanted](https://img.shields.io/github/labels/optimajet/formengine/help%20wanted?label=Contribute)](https://github.com/optimajet/formengine/labels/help%20wanted)
