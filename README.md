@@ -10,6 +10,11 @@
 [![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)
 <!-- ================================================================ -->
 
+```bash
+npm install @react-form-builder/core @react-form-builder/components-rsuite
+
+
+
 
 
 <!--[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)-->
