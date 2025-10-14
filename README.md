@@ -8,6 +8,8 @@
 [![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
 [![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)
 <!-- ================================================================ -->
+![Formengine](./readme-assets/formengine_core-github_cover.png)
+
 
 
 <!--[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)-->
