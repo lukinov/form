@@ -18,7 +18,7 @@
 
 [![Give us a Star](https://img.shields.io/badge/⭐️_Give_us_a_star-FFD700?style=for-the-badge)](https://github.com/optimajet/formengine/stargazers)
 
-[![Build Complex forms faster with AI](https://img.shields.io/badge/🔥_Build_forms-faster-4286F4?style=for-the-badge)]([https://demo.formengine.io/](https://formengine.io/ai-form-builder))
+[![Build Complex forms faster with AI](https://img.shields.io/badge/🔥_Build Complex forms faster with AI-4286F4?style=for-the-badge)]([https://formengine.io/ai-form-builder](https://formengine.io/ai-form-builder)
 
 
 <!-- ================================================================ -->
