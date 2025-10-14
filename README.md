@@ -6,9 +6,8 @@
 [![Try Demo](https://img.shields.io/badge/🚀_Try-Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/)
 
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-brightgreen?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
-[![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)
 [![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
-
+[![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)
 <!-- ================================================================ -->
 
 
