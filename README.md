@@ -92,4 +92,4 @@ export const App = () => {
 
  ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
 
- ![Formengine Drag and n Drop](./readme-assets/dragndrop.gif)
+ ![Formengine Drag and n Drop](./readme-assets/dndfb.gif)
