@@ -91,5 +91,3 @@ export const App = () => {
  ## Drag and Drop Premium Formbuilder 
 
  ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
-
- ![Formengine Drag and n Drop](./readme-assets/dndfb.gif)
