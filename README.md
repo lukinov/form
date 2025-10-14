@@ -18,6 +18,5 @@
 
 [![Give us a Star](https://img.shields.io/badge/⭐️_Give_us_a_star-FFD700?style=for-the-badge)](https://github.com/optimajet/formengine/stargazers)
 [![Build forms faster](https://img.shields.io/badge/🔥_Build_forms-faster-4286F4?style=for-the-badge)](https://demo.formengine.io/)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20devs-red?style=for-the-badge)]
 
 <!-- ================================================================ -->
