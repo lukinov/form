@@ -6,8 +6,7 @@
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/optimajet/formengine/blob/master/LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
-[![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-FF69B4?style=for-the-badge)](https://demo.formengine.io/)
-[![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)
+[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
 <!-- ================================================================ -->
 
 ## 📦 Installation  
