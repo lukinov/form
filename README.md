@@ -10,6 +10,63 @@
 [![GPTs Complex Form Builder ](https://img.shields.io/badge/🚀_AI_COMPLEX_FORM_BUILDER-F58319?style=for-the-badge)](https://formengine.io/ai-form-builder)
 <!-- ================================================================ -->
 
-```bash
-npm install @react-form-builder/core @react-form-builder/components-rsuite
+## 📦 Installation  
 
+Install the core package and RSuite free form components:  
+ ```bash  
+ npm install @react-form-builder/core @react-form-builder/components-rsuite  
+ ```  
+## 🚀 Quick Start Example
+
+Here's a minimal example of a **React Form Engine Core** form using RSuite components:
+
+```tsx
+import { viewWithCss } from '@react-form-builder/components-rsuite'
+import { buildForm, FormViewer } from '@react-form-builder/core'
+
+const simpleForm = buildForm({ errorType: 'RsErrorMessage' })
+  .component('container', 'RsContainer')
+  .style({ flexDirection: 'row' })
+  .children((builder) =>
+    builder
+      .component('firstName', 'RsInput')
+      .prop('placeholder', 'Enter your first name')
+      .prop('label', 'First Name')
+      .validation('required')
+
+      .component('lastName', 'RsInput')
+      .prop('placeholder', 'Enter your last name')
+      .prop('label', 'Last Name')
+      .validation('required')
+  )
+
+  .component('birthDate', 'RsDatePicker')
+  .prop('label', 'Birth Date')
+  .prop('oneTap', true)
+  .validation('min')
+  .args({ value: '1900-01-07T12:25:37.000Z' })
+
+  .component('submit', 'RsButton')
+  .prop('children', 'Submit')
+  .prop('color', 'blue')
+  .prop('appearance', 'primary')
+  .event('onClick')
+  .commonAction('validate')
+  .args({ failOnError: true })
+  .customAction('onSubmit')
+  .json()
+
+export const App = () => {
+  return (
+    <FormViewer
+      view={viewWithCss}
+      getForm={() => simpleForm}
+      actions={{
+        onSubmit: (e) => {
+          // submit the form to the backend
+          alert('Form data: ' + JSON.stringify(e.data))
+        },
+      }}
+    />
+  )
+}
