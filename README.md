@@ -180,7 +180,7 @@ If Formengine Core saves your sanity from Formik / Hook Form —  these cats dem
 ![Random Cat 2](https://cataas.com/cat/says/You%20still%20haven't%20starred%20this%20repo)
 ![Random Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now)
 
-> This little guy says: If Formengine saved your sanity, **star this repo**!  
+> If Formengine saved your sanity, **star this repo**!  
 
 ![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-FORMENGINE-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
 
