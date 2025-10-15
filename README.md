@@ -1,4 +1,9 @@
 # React Form Renderer
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/optimajet)
+[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
 ![Formengine](./readme-assets/Formengine_bigpicture_2.png)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
@@ -73,8 +78,8 @@ export const App = () => {
 
  ```
 ## Repository structure
-- community: Formengine Core source code and examples for FormEngine Community (MIT license).
-- premium: examples for FormEngine Formbuilder Premium (commercial license).
+- **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
+- **Premium:** examples for FormEngine Formbuilder Premium (commercial license).
 
 ## ✨ Formengine Core Key Features
 
@@ -144,11 +149,7 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder)
 [![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/)
 [![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
 
 ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
-**Follow us to keep up to date with all the latest news from Formengine**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/optimajet)
-[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
+![Formengine](./readme-assets/Formengine_bigpicture_1.png)
