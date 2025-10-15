@@ -127,7 +127,7 @@ export const matButton = define(Button, 'MatButton')
  ```  
 ## Usage with Next.js
 The FormEngine is fully compatible with the latest versions of the Next.js.
-## Usage with Next.js
+## Usage with Remix
 The FormEngine is fully compatible with the latest versions of the Remix.
 ## Community & Support
 - [Community Forum](https://github.com/optimajet/formengine/discussions) – Best for: help with building, discussion about React form best practices.  
