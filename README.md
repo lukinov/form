@@ -106,10 +106,10 @@ export const App = () => {
 - **Premium:** Examples for Premium On-Premise Drag-and-Drop React Form Builder (Commercial license). Premium On-Premise Drag-and-Drop React Form Builder
  
 ## Next.js Integration
-  Works out of the box with Next.js.  
+  [Works out of the box with Next.js. ](https://formengine.io/documentation/usage-with-nextjs) 
   
 ## Remix Compatibility
-  Fully supports Remix.  
+[Fully supports Remix.](https://formengine.io/documentation/usage-with-remix) 
   
 ## Ready to use Pre-Built RSuite Form UI Components  
  ```bash  
