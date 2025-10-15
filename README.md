@@ -170,6 +170,8 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 
 ## Get Involved
 
+![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-Optimajet-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
+
 > This little guy says: If Formengine saved your sanity, **star this repo**!  
 
 ### ⭐ Join the JSON-First Revolution
@@ -181,13 +183,6 @@ We hope this project has saved you hours — ⭐ **star this repo** to support d
 If Formengine Core saves your sanity from Formik / Hook Form —  these cats demand that you **support the project with a star**.
 
 ![Cat 1](https://cataas.com/cat/says/You%20still%20haven't%20starred%20this%20repo)
-![Cat 2](https://cataas.com/cat/says/Star%20me%20or%20I%20get%20angry)
-![Cat 3](https://cataas.com/cat/says/JSON%20forms%20rule)
-![Cat 4](https://cataas.com/cat/says/No%20star%20—%20no%20friends)
-![Cat 5](https://cataas.com/cat/says/You%20can%20do%20it)
 ![Cat 6](https://cataas.com/cat/says/Star%20me%20or%20regret)
-![Cat 8](https://cataas.com/cat/says/Your%20karma%20depends%20on%20this)
-![Cat 9](https://cataas.com/cat/says/JSON%20first%20or%20suffer)
-![Cat 10](https://cataas.com/cat/says/Star%20it%20now)
 
 <!--[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)-->
