@@ -178,12 +178,6 @@ We hope this project has saved you hours — ⭐ **star this repo** to support d
 
 If Formengine Core saves your sanity from Formik / Hook Form —  these cats demand that you **support the project with a star**.
 
-![Cat 1](https://cataas.com/cat/says/Star%20Formengine?size=50&color=white)
-![Cat 2](https://cataas.com/cat/says/You%20still%20haven't%20starred%20this%20repo?size=50&color=white)
-![Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now?size=50&color=white)
-![Cat 4](https://cataas.com/cat/says/JSON%20first%20or%20suffer?size=50&color=white)
-![Cat 5](https://cataas.com/cat/says/No%20star%20—%20no%20friends?size=50&color=white)
-
 ![Random Cat 1](https://cataas.com/cat/says/Star%20Formengine)
 ![Random Cat 2](https://cataas.com/cat/says/You%20still%20haven't%20starred%20this%20repo)
 ![Random Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now)
