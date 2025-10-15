@@ -7,9 +7,10 @@
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
 [![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
 <!-- ================================================================ -->
+## 📖 Formengine overview
+
 
 ## 📦 Installation  
-
 Install the core package and RSuite free form components:  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
@@ -88,6 +89,53 @@ export const App = () => {
   - Store complete form definitions as JSON.  
   - Programmatically generate forms via code.
   
- ## Drag and Drop Premium Formbuilder 
+## Ready to use Pre-Built RSuite Form UI Components  
+ ```bash  
+ npm install @react-form-builder/components-rsuite  
+ ```  
+ ![Formengine Drag and n Drop](./readme-assets/components-ui.png)
 
- ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
+## Custom components
+
+Component description consists of defining meta-information about the component - component name, component type, component properties. Meta-information on component properties in Formengine is called an annotation.
+
+Well, let's describe some existing component from the popular MUI library. As an example, let's take a Button:
+#### Example of a custom component definition
+ ```tsx 
+import {Button} from '@mui/material'
+import {boolean, define, event, oneOf, string} from '@react-form-builder/core'
+
+// Let's call our component matButton, using the prefix 'mat' to make it easy to understand
+// from the name that the component belongs to the MUI library.
+//
+// Here we call the define function and pass it two parameters - the Button component
+// and the unique name of the component type.
+export const matButton = define(Button, 'MatButton')
+  // component name displayed in the component panel in the designer
+  .name('Button')
+  // define the component properties that we want to edit in the designer
+  .props({
+    // button text
+    children: string.named('Caption').default('Button'),
+    // button color
+    color: oneOf('inherit', 'primary', 'secondary', 'success', 'error', 'info', 'warning'),
+    // button disable flag
+    disabled: boolean,
+    // callback fired when the button is clicked.
+    onClick: event,
+  })
+ ```  
+## Drag and Drop Premium Formbuilder 
+### React Form Builder - That Developers Can Customize and Teams Can Use
+A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
+```bash  
+ npm install @react-form-builder/designer
+ ```
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder)
+[![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/)
+[![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms)
+
+![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
+
+
+
