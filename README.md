@@ -1,11 +1,12 @@
+# React Form Renderer
 ![Formengine](./readme-assets/Formengine_bigpicture_2.png)
-
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/optimajet/formengine/blob/master/LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
-[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
+[![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
 ## 📖 Formengine overview
 Formengine Core - React Form Renderer
@@ -71,6 +72,10 @@ export const App = () => {
 }
 
  ```
+## Repository structure
+- community: Formengine Core source code and examples for FormEngine Community (MIT license).
+- premium: examples for FormEngine Formbuilder Premium (commercial license).
+
 ## ✨ Formengine Core Key Features
 
 - 🧩 **UI-Agnostic Components** — Works seamlessly with any UI library (MUI, Ant Design, shadcn/ui, and others).  
@@ -95,7 +100,7 @@ export const App = () => {
  ```  
  ![Formengine Drag and n Drop](./readme-assets/components-ui.png)
 
-## Custom components
+## 🟦🟥🟨🟩 Custom components
 
 Component description consists of defining meta-information about the component - component name, component type, component properties. Meta-information on component properties in Formengine is called an annotation.
 
@@ -125,11 +130,7 @@ export const matButton = define(Button, 'MatButton')
     onClick: event,
   })
  ```  
-## Usage with Next.js
-The FormEngine is fully compatible with the latest versions of the Next.js.
-## Usage with Remix
-The FormEngine is fully compatible with the latest versions of the Remix.
-## Community & Support
+## 🤝 Support & Community
 - [Community Forum](https://github.com/optimajet/formengine/discussions) – Best for: help with building, discussion about React form best practices.  
 - [GitHub Issues](https://github.com/optimajet/formengine/issues) – Best for: bugs and errors you encounter using Formengine.  
 - [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
@@ -145,6 +146,9 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 [![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms)
 
 ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
+**Follow us to keep up to date with all the latest news from Formengine**
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/optimajet)
+[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
