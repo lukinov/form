@@ -165,6 +165,7 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 [![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/)
 [![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
+![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_US-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
 
 ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
 
@@ -181,7 +182,5 @@ If Formengine Core saves your sanity from Formik / Hook Form —  these cats dem
 ![Random Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now)
 
 > If Formengine saved your sanity, **star this repo**!  
-
-![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-FORMENGINE-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
 
 <!--[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)-->
