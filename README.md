@@ -1,4 +1,4 @@
-# React Form Renderer
+# 🚀 React Form Renderer
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
@@ -20,7 +20,7 @@ Install the core package and RSuite free form components:
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
-## 🚀 Formengine Quick Start Example
+## Formengine Quick Start Example
 
 Here's a minimal example of a **React Form Engine Core** form using RSuite components:
 
@@ -80,29 +80,42 @@ export const App = () => {
 - **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
 - **Premium:** examples for FormEngine Formbuilder Premium (commercial license).
 
-## ✨ Formengine Core Key Features
+## Documentation
+- [📘 Full Documentation](https://formengine.io/documentation/)
+- [FAQ](https://formengine.io/documentation/category/faq)
+- [Guides](https://formengine.io/documentation/category/guides)
+  
+## ✨ Why developers love Formengine Core?
 
+-  **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
+-  **Less Code, Fewer Bugs** – logic and UI stay separate.   
+-  **JSON-First Architecture** – define, render, and validate without touching React internals.
 - 🧩 **UI-Agnostic Components** — Works seamlessly with any UI library (MUI, Ant Design, shadcn/ui, and others).  
-- ⚡ **Pre-Built RSuite Integration** — Includes a ready-to-use component library: `@react-form-builder/components-rsuite`.  
-- 🧠 **Framework Support**
-  - **Next.js Integration** — Works out of the box with Next.js.  
-  - **Remix Compatibility** — Fully supports Remix.  
-  - **Framework-Agnostic** — Can also be used without any framework via CDN.  
+- 🧠 **Framework-Agnostic** — Can also be used without any framework via CDN.  
 - 🗄️ **Multi-Database Support** — Compatible with MySQL, PostgreSQL, MongoDB, SQLite, and more.  
 - ✅ **Built-in Validation with Zod** — Pre-configured validation powered by Zod.  
 - 🔧 **Extensible Validation Support** — Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries.  
 - 📱 **Responsive Layouts** — Build forms that automatically adapt to all screen sizes.  
 - ⚙️ **Custom Actions** — Enhance forms with interactive logic through custom JavaScript.  
-- 🔄 **Dynamic Properties** — Enable real-time component updates with MobX-powered reactivity.  
+- 🔄 **Dynamic Properties** — Enable real-time component updates with MobX-powered reactivity.
+- ⚡ **Pre-Built RSuite Integration** — Includes a ready-to-use component library: `@react-form-builder/components-rsuite`.
 - 💾 **Flexible Storage Options**
   - Store complete form definitions as JSON.  
   - Programmatically generate forms via code.
+
+> ⚡ *"It feels like how forms should’ve always worked."*
+ 
+## Next.js Integration
+  Works out of the box with Next.js.  
+  
+## Remix Compatibility
+  Fully supports Remix.  
   
 ## Ready to use Pre-Built RSuite Form UI Components  
  ```bash  
  npm install @react-form-builder/components-rsuite  
  ```  
- ![Formengine Drag and n Drop](./readme-assets/components-ui.png)
+[![Formengine Drag and n Drop](./readme-assets/components-ui.png)](https://formengine.io/react-form-components-library)
 
 ## 🟦🟥🟨🟩 Custom components
 
@@ -151,4 +164,8 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
 
 ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
-![Formengine](./readme-assets/Formengine_bigpicture_1.png)
+
+## Get Involved
+
+
+[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)
