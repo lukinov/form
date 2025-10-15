@@ -103,7 +103,7 @@ export const App = () => {
 
 ## Repository structure
 - **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
-- **Premium:** Examples for Drag and Drop Form Builder Premium (Commercial license).
+- **Premium:** Examples for Premium On-Premise Drag-and-Drop React Form Builder (Commercial license). Premium On-Premise Drag-and-Drop React Form Builder
  
 ## Next.js Integration
   Works out of the box with Next.js.  
@@ -170,8 +170,11 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 
 ## Get Involved
 
+
+![Cat approves Formengine](https://cataas.com/cat/says/Star%20me%20if%20you%20love%20JSON%20forms)
+
 ### ⭐ Join the JSON-First Revolution
 
-If you’ve ever wasted hours debugging a form — ⭐ **star this repo** and build your next form the smart way.
+We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps it open and free.
 
-[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)
+<!--[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)-->
