@@ -8,14 +8,14 @@
 [![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
 <!-- ================================================================ -->
 ## 📖 Formengine overview
+Formengine Core - React Form Renderer
 
-
-## 📦 Installation  
+## 📦 Formengine Core Installation  
 Install the core package and RSuite free form components:  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
-## 🚀 Quick Start Example
+## 🚀 Formengine Quick Start Example
 
 Here's a minimal example of a **React Form Engine Core** form using RSuite components:
 
@@ -125,6 +125,15 @@ export const matButton = define(Button, 'MatButton')
     onClick: event,
   })
  ```  
+## Usage with Next.js
+The FormEngine is fully compatible with the latest versions of the Next.js.
+## Usage with Next.js
+The FormEngine is fully compatible with the latest versions of the Remix.
+## Community & Support
+- [Community Forum](https://github.com/optimajet/formengine/discussions) – Best for: help with building, discussion about React form best practices.  
+- [GitHub Issues](https://github.com/optimajet/formengine/issues) – Best for: bugs and errors you encounter using Formengine.  
+- [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
+
 ## Drag and Drop Premium Formbuilder 
 ### React Form Builder - That Developers Can Customize and Teams Can Use
 A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
