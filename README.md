@@ -184,28 +184,11 @@ If Formengine Core saves your sanity from Formik / Hook Form —  these cats dem
 ![Cat 4](https://cataas.com/cat/says/JSON%20first%20or%20suffer?size=50&color=white)
 ![Cat 5](https://cataas.com/cat/says/No%20star%20—%20no%20friends?size=50&color=white)
 
+![Random Cat 1](https://cataas.com/cat/says/Star%20Formengine)
+![Random Cat 2](https://cataas.com/cat/says/You%20still%20haven't%20starred%20this%20repo)
+![Random Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now)
 
 
 ![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-FORMENGINE-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
 
-<table>
-<tr>
-<td><img src="https://cataas.com/cat/says/You%20haven't%20starred%20Formengine%20yet%3F%20Seriously%3F" alt="Cat 1"></td>
-<td><img src="https://cataas.com/cat/says/Share%20Formengine%20with%20your%20colleagues%20NOW" alt="Cat 2"></td>
-<td><img src="https://cataas.com/cat/says/Your%20coworkers%20are%20waiting%20for%20this%20⭐" alt="Cat 3"></td>
-</tr>
-<tr>
-<td><img src="https://cataas.com/cat/says/Don't%20be%20selfish%2C%20share%20it!" alt="Cat 4"></td>
-<td><img src="https://cataas.com/cat/says/Star%20Formengine%20before%20they%20ask" alt="Cat 5"></td>
-<td><img src="https://cataas.com/cat/says/Cats%20approve%20of%20sharing%20with%20friends" alt="Cat 6"></td>
-</tr>
-<tr>
-<td><img src="https://cataas.com/cat/says=Send%20this%20repo%20to%20your%20team" alt="Cat 7"></td>
-<td><img src="https://cataas.com/cat/says=More%20stars%2C%20more%20respect" alt="Cat 8"></td>
-<td><img src="https://cataas.com/cat/says=Share%20or%20face%20the%20cat%27s%20wrath" alt="Cat 9"></td>
-</tr>
-<tr>
-<td colspan="3"><img src="https://cataas.com/cat/says=Formengine%20needs%20YOU%21%20⭐%20and%20share!" alt="Cat 10"></td>
-</tr>
-</table>
 <!--[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)-->
