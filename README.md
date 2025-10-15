@@ -1,4 +1,4 @@
-# 🚀 React Form Renderer
+# 🚀 React Form Renderer. 
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
@@ -12,8 +12,8 @@
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
-## 📖 Formengine overview
-Formengine Core - React Form Renderer
+# Describe your form in JSON → render anywhere.  No hooks. No context. No boilerplate. No pain. 
+Tried Formik? Tried React Hook Form? Now try the alternative — **Formengine Core**, a JSON-first React Form Renderer and open-source form engine for React.
 
 ## 📦 Formengine Core Installation  
 Install the core package and RSuite free form components:  
@@ -76,15 +76,6 @@ export const App = () => {
 }
 
  ```
-## Repository structure
-- **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
-- **Premium:** examples for FormEngine Formbuilder Premium (commercial license).
-
-## Documentation
-- [📘 Full Documentation](https://formengine.io/documentation/)
-- [FAQ](https://formengine.io/documentation/category/faq)
-- [Guides](https://formengine.io/documentation/category/guides)
-  
 ## ✨ Why developers love Formengine Core?
 
 -  **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
@@ -104,6 +95,15 @@ export const App = () => {
   - Programmatically generate forms via code.
 
 > ⚡ *"It feels like how forms should’ve always worked."*
+
+## Documentation
+- [📘 Full Documentation](https://formengine.io/documentation/)
+- [FAQ](https://formengine.io/documentation/category/faq)
+- [Guides](https://formengine.io/documentation/category/guides)
+
+## Repository structure
+- **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
+- **Premium:** Examples for Drag and Drop Form Builder Premium (Commercial license).
  
 ## Next.js Integration
   Works out of the box with Next.js.  
@@ -152,6 +152,10 @@ export const matButton = define(Button, 'MatButton')
 - [GitHub Issues](https://github.com/optimajet/formengine/issues) – Best for: bugs and errors you encounter using Formengine.  
 - [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
 
+## Free Online Drag & Drop Form Builder  
+[![Try it now](https://img.shields.io/badge/Try%20it%20Now-%20✅%20Live%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/)
+
+
 ## Drag and Drop Premium Formbuilder 
 ### React Form Builder - That Developers Can Customize and Teams Can Use
 A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
@@ -167,5 +171,8 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 
 ## Get Involved
 
+### ⭐ Join the JSON-First Revolution
+
+If you’ve ever wasted hours debugging a form — ⭐ **star this repo** and build your next form the smart way.
 
 [![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)
