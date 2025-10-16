@@ -1,4 +1,4 @@
-# React Form Renderer - It feels like how forms should’ve always worked.
+# React Form Renderer — Because forms shouldn’t be this hard.
 [![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
