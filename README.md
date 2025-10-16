@@ -1,4 +1,4 @@
-# 🚀 React Form Renderer. 
+# React Form Renderer. 
 [![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
@@ -15,7 +15,7 @@ Install the core package and RSuite free form components:
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
-## Formengine Quick Start Example
+## 🚀 Formengine Quick Start Example
 
 Here's a minimal example of a **React Form Engine Core** form using RSuite components:
 
@@ -73,30 +73,30 @@ export const App = () => {
  ```
 ## ✨ Why developers love Formengine Core?
 
--  **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
--  **Less Code, Fewer Bugs** – logic and UI stay separate.   
--  **JSON-First Architecture** – define, render, and validate without touching React internals.
-- 🧩 **UI-Agnostic Components** — Works seamlessly with any UI library (MUI, Ant Design, shadcn/ui, and others).  
-- 🧠 **Framework-Agnostic** — Can also be used without any framework via CDN.  
-- 🗄️ **Multi-Database Support** — Compatible with MySQL, PostgreSQL, MongoDB, SQLite, and more.  
-- ✅ **Built-in Validation with Zod** — Pre-configured validation powered by Zod.  
-- 🔧 **Extensible Validation Support** — Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries.  
-- 📱 **Responsive Layouts** — Build forms that automatically adapt to all screen sizes.  
-- ⚙️ **Custom Actions** — Enhance forms with interactive logic through custom JavaScript.  
-- 🔄 **Dynamic Properties** — Enable real-time component updates with MobX-powered reactivity.
-- ⚡ **Pre-Built RSuite Integration** — Includes a ready-to-use component library: `@react-form-builder/components-rsuite`.
-- 💾 **Flexible Storage Options**
+- **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
+- **Less Code, Fewer Bugs** – logic and UI stay separate.   
+- **JSON-First Architecture** – define, render, and validate without touching React internals.
+- **UI-Agnostic Components** — Works seamlessly with any UI library (MUI, Ant Design, shadcn/ui, and others).  
+- **Framework-Agnostic** — Can also be used without any framework via CDN.  
+- **Multi-Database Support** — Compatible with MySQL, PostgreSQL, MongoDB, SQLite, and more.  
+- **Built-in Validation with Zod** — Pre-configured validation powered by Zod.  
+- **Extensible Validation Support** — Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries.  
+- **Responsive Layouts** — Build forms that automatically adapt to all screen sizes.  
+- **Custom Actions** — Enhance forms with interactive logic through custom JavaScript.  
+- **Dynamic Properties** — Enable real-time component updates with MobX-powered reactivity.
+- **Pre-Built RSuite Integration** — Includes a ready-to-use component library: `@react-form-builder/components-rsuite`.
+- **Flexible Storage Options**
   - Store complete form definitions as JSON.  
   - Programmatically generate forms via code.
 
 > ⚡ *"It feels like how forms should’ve always worked."*
 
-## Documentation
-- [📘 Full Documentation](https://formengine.io/documentation/)
+## 📘 Documentation
+- [Full Documentation](https://formengine.io/documentation/)
 - [FAQ](https://formengine.io/documentation/category/faq)
 - [Guides](https://formengine.io/documentation/category/guides)
 
-## Repository structure
+## 🗄️ Repository structure
 - **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
 - **Premium:** Examples for Premium On-Premise Drag-and-Drop React Form Builder (Commercial license). Premium On-Premise Drag-and-Drop React Form Builder
  
