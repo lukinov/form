@@ -7,7 +7,7 @@
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
-# Describe your form in JSON → render anywhere.  No hooks. No context. No boilerplate. No pain. 
+## Describe your form in JSON → render anywhere.  No hooks. No context. No boilerplate. No pain. 
 Tried Formik? Tried React Hook Form? Now try the alternative — **Formengine Core**, a JSON-first React Form Renderer and open-source form engine for React.
 
 ## 📦 Formengine Core Installation  
