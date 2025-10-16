@@ -141,7 +141,8 @@ export const matButton = define(Button, 'MatButton')
   })
  ```
 ## 🌍 Free Online Drag & Drop Form Builder  
-[![Try it now](https://img.shields.io/badge/Try%20it%20Now-%20✅%20Live%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/)
+[![Try it now](https://img.shields.io/badge/FORM_BUILDER-%20✅%20ONLINE%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder)
 
 ## 🤝 Support & Community
 - [Community Forum](https://github.com/optimajet/formengine/discussions) – Best for: help with building, discussion about React form best practices.  
@@ -154,13 +155,12 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 ```bash  
  npm install @react-form-builder/designer
  ```
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder)
 [![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/)
 [![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
 ![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_US-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
 
-![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
+[![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)](https://formbuilder.formengine.io)
 
 ## We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
 #### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
