@@ -8,7 +8,7 @@
 <!-- ================================================================ -->
 ### Struggled with React Hook Form, Formik, or TanStack Form? Formengine Core — You’re not alone. Forms shouldn’t be this hard!
 
-#### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. It’s time to use something better. Describe your form in JSON and render anywhere. No hooks. No context. No boilerplate. No pain.
+#### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. It’s time to use something better. Describe your form in JSON and render it across your apps. No hooks. No context. No boilerplate. No pain.
 
 ### 📦 Formengine Core Installation  
 Install the core package and RSuite free form components:  
