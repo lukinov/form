@@ -1,4 +1,4 @@
-# React Form Renderer. 
+# React Form Renderer - It feels like how forms should’ve always worked.
 [![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
@@ -7,7 +7,7 @@
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
-## Describe your form in JSON → render anywhere.  No hooks. No context. No boilerplate. No pain. 
+## Describe your form in JSON → render anywhere. No hooks. No context. No boilerplate. No pain. 
 Tried Formik? Tried React Hook Form? Now try the alternative — **Formengine Core**, a JSON-first React Form Renderer and open-source form engine for React.
 
 ## 📦 Formengine Core Installation  
@@ -88,8 +88,6 @@ export const App = () => {
 - **Flexible Storage Options**
   - Store complete form definitions as JSON.  
   - Programmatically generate forms via code.
-
-> ⚡ *"It feels like how forms should’ve always worked."*
 
 ## 📘 Documentation
 - [Full Documentation](https://formengine.io/documentation/)
