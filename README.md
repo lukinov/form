@@ -1,10 +1,4 @@
 # 🚀 React Form Renderer. 
-[![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/optimajet)
-[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
-[![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
@@ -152,7 +146,7 @@ export const matButton = define(Button, 'MatButton')
 - [GitHub Issues](https://github.com/optimajet/formengine/issues) – Best for: bugs and errors you encounter using Formengine.  
 - [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
 
-## Free Online Drag & Drop Form Builder  
+## 🌍 Free Online Drag & Drop Form Builder  
 [![Try it now](https://img.shields.io/badge/Try%20it%20Now-%20✅%20Live%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/)
 
 ## Premium On-Premise Drag-and-Drop React Form Builder 
@@ -169,18 +163,11 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 
 ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
 
-### ⭐ Join the JSON-First Revolution
+## We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
 
-We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps it open and free.
-
-# 😼 You still haven’t ⭐ this repo? What’s wrong with you?!
-
-If Formengine Core saves your sanity from Formik / Hook Form —  these cats demand that you **support the project with a star**.
-
-![Random Cat 1](https://cataas.com/cat/says/Star%20Formengine)
-![Random Cat 2](https://cataas.com/cat/says/You%20still%20haven't%20starred%20this%20repo)
-![Random Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now)
-
-> If Formengine saved your sanity, **star this repo**!  
-
-<!--[![Formengine](./readme-assets/Formengine_bigpicture_1.png)](https://formengine.io)-->
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/optimajet)
+[![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
+[![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io)
