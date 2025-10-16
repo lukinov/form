@@ -139,17 +139,17 @@ export const matButton = define(Button, 'MatButton')
     // callback fired when the button is clicked.
     onClick: event,
   })
- ```  
+ ```
+## 🌍 Free Online Drag & Drop Form Builder  
+[![Try it now](https://img.shields.io/badge/Try%20it%20Now-%20✅%20Live%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/)
+
 ## 🤝 Support & Community
 - [Community Forum](https://github.com/optimajet/formengine/discussions) – Best for: help with building, discussion about React form best practices.  
 - [GitHub Issues](https://github.com/optimajet/formengine/issues) – Best for: bugs and errors you encounter using Formengine.  
 - [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
 
-## 🌍 Free Online Drag & Drop Form Builder  
-[![Try it now](https://img.shields.io/badge/Try%20it%20Now-%20✅%20Live%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/)
-
-## Premium On-Premise Drag-and-Drop React Form Builder 
-### React Form Builder - That Developers Can Customize and Teams Can Use
+## A Premium On-Premise React Form Builder with Drag-and-Drop, built for SaaS and Enterprise Teams
+#### React Form Builder - That Developers Can Customize and Teams Can Use
 A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
 ```bash  
  npm install @react-form-builder/designer
