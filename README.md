@@ -157,14 +157,14 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
  ```
 [![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues)
-![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_US-blue?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
+![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_US-4286F4?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/)
 
 [![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)](https://formbuilder.formengine.io)
 
 ## We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
 #### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
 
-[![Documentation](https://img.shields.io/badge/Documentation-Install-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/installation)
+[![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/installation)
 [![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
