@@ -6,12 +6,11 @@
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
-# React Form Renderer — Because forms shouldn’t be this hard.
+### Struggled with React Hook Form, Formik, or TanStack Form? Formengine Core — You’re not alone. Forms shouldn’t be this hard!
 
-#### Describe your form in JSON → render anywhere. No hooks. No context. No boilerplate. No pain. 
-Tried Formik? Tried React Hook Form? Now try the alternative — **Formengine Core**, a JSON-first React Form Renderer and open-source form engine for React.
+#### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. It’s time to use something better. Describe your form in JSON and render anywhere. No hooks. No context. No boilerplate. No pain.
 
-## 📦 Formengine Core Installation  
+### 📦 Formengine Core Installation  
 Install the core package and RSuite free form components:  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
@@ -164,11 +163,10 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 ![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)
 
 ## We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
+#### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
 
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-4B8BBE?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@optimajet)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/optimajet)
 [![Join Community](https://img.shields.io/badge/💬_Join-Community-4286F4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/discussions)
-
-![Random Cat 3](https://cataas.com/cat/says/Click%20the%20star%20now)
