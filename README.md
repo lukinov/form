@@ -80,10 +80,13 @@ Install the core package and RSuite free form components:
 }  
  ```  
 
+
+
 <details> 
 <summary> Click to see how you can define your entire form in JSON and render it with Formengine Core. </summary>
 
- ### Here's a Simple form example of a React Form Engine Core form using RSuite components:
+
+ ### Here’s a simple form example you can use in your React app.
 
 ```tsx
 import { viewWithCss } from '@react-form-builder/components-rsuite'
