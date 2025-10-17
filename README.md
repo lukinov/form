@@ -142,7 +142,7 @@ export const App = () => (
  ```
 </details> 
 
-### 📦 Formengine Core Installation  - It’s time to use something better. Forms shouldn’t be this hard!
+### 📦  It’s time to use something better. Formengine Core Installation. Forms shouldn’t be this hard.
 Install the core package and RSuite free form components:  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
