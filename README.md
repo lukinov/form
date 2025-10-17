@@ -15,7 +15,9 @@ Install the core package and RSuite free form components:
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
-### 🚀 Formengine Simple Form JSON Example
+### Simple Form JSON Example
+[![Formengine](./readme-assets/simpleform.png)](https://formengine.io)
+### Formengine Simple Form JSON Example
 ```JSON  
  {
   "version": "1",
