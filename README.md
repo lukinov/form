@@ -15,9 +15,72 @@ Install the core package and RSuite free form components:
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
-## 🚀 Formengine Quick Start Example
+### 🚀 Formengine Simple Form JSON Example
+```JSON  
+ {
+  "version": "1",
+  "form": {
+    "key": "Screen",
+    "type": "Screen",
+    "props": {},
+    "children": [
+      {
+        "key": "name",
+        "type": "RsInput",
+        "props": {
+          "label": {
+            "value": "Name"
+          }
+        }
+      },
+      {
+        "key": "email",
+        "type": "RsInput",
+        "props": {
+          "label": {
+            "value": "Email"
+          }
+        }
+      },
+      {
+        "key": "submit",
+        "type": "RsButton",
+        "props": {
+          "appearance": {
+            "value": "primary"
+          },
+          "children": {
+            "value": "Submit"
+          }
+        },
+        "events": {
+          "onClick": [
+            {
+              "name": "validate",
+              "type": "common"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "localization": {},
+  "languages": [
+    {
+      "code": "en",
+      "dialect": "US",
+      "name": "English",
+      "description": "American English",
+      "bidi": "ltr"
+    }
+  ],
+  "defaultLanguage": "en-US"
+}  
+ ```  
+<details> 
+<summary>Click to view Formengine Quick Start Example</summary>
 
-Here's a minimal example of a **React Form Engine Core** form using RSuite components:
+ ### Here's a minimal form example of a **React Form Engine Core** form using RSuite components:
 
 ```tsx
 import { viewWithCss } from '@react-form-builder/components-rsuite'
@@ -71,6 +134,8 @@ export const App = () => {
 }
 
  ```
+</details> 
+
 ## ✨ Why developers love Formengine Core?
 
 - **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
