@@ -10,11 +10,6 @@
 
 #### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. Describe your form in JSON and render it across your apps. No hooks. No context. No boilerplate. No pain.
 
-### 📦 Formengine Core Installation  
-Install the core package and RSuite free form components:  
- ```bash  
- npm install @react-form-builder/core @react-form-builder/components-rsuite  
- ```  
 ### Simple Form Example
 [![Formengine](./readme-assets/simpleform.png)](https://formengine.io)
 ### Simple Form JSON Example
@@ -79,9 +74,6 @@ Install the core package and RSuite free form components:
   "defaultLanguage": "en-US"
 }  
  ```  
-
-
-
 <details> 
 <summary> Click to see how you can define your entire form in JSON and render it with Formengine Core. </summary>
 
@@ -150,6 +142,12 @@ export const App = () => (
  ```
 </details> 
 
+### 📦 Formengine Core Installation  - It’s time to use something better. Forms shouldn’t be this hard!
+Install the core package and RSuite free form components:  
+ ```bash  
+ npm install @react-form-builder/core @react-form-builder/components-rsuite  
+ ```  
+
 ## ✨ Why developers love Formengine Core?
 
 - **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
@@ -176,6 +174,7 @@ export const App = () => (
 ## 🗄️ Repository structure
 - **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
 - **Premium:** Examples for Premium On-Premise Drag-and-Drop React Form Builder (Commercial license). Premium On-Premise Drag-and-Drop React Form Builder
+- [Source Code](https://github.com/optimajet/formengine/tree/master/community/src) 
  
 ## Next.js Integration
   [Works out of the box with Next.js. ](https://formengine.io/documentation/usage-with-nextjs) 
