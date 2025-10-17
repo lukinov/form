@@ -17,7 +17,7 @@ Install the core package and RSuite free form components:
  ```  
 ### Simple Form Example
 [![Formengine](./readme-assets/simpleform.png)](https://formengine.io)
-### Simple Form Formengine JSON Example
+### Simple Form JSON Example
 ```JSON  
  {
   "version": "1",
