@@ -181,7 +181,7 @@ export const App = () => (
 
 ## ✅ Validation
 - **Built-in Validation with Zod** — [Pre-configured validation powered by Zod](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
-- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme#external)
+- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation/?utm_source=github&utm_medium=article&utm_campaign=readme#external)
 
 ## Ready to use Pre-Built RSuite Form UI Components  
  ```bash  
