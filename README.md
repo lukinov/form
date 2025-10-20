@@ -1,6 +1,5 @@
 [![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=banner-top&utm_campaign=readme#quick-start)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
-[![npm](https://https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/optimajet/formengine/blob/master/LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
@@ -176,21 +175,19 @@ Install the core package and RSuite free form components:
 - **Premium:** Examples for Premium On-Premise Drag-and-Drop React Form Builder (Commercial license). Premium On-Premise Drag-and-Drop React Form Builder
 - [Source Code](https://github.com/optimajet/formengine/tree/master/community/src) 
  
-## Next.js Integration
-  **Works out of the box with** - [ Next.js. ](https://formengine.io/documentation/usage-with-nextjs?utm_source=github&utm_medium=article&utm_campaign=readme) 
-  
-## Remix Compatibility
-**Fully supports** - [Remix.](https://formengine.io/documentation/usage-with-remix?utm_source=github&utm_medium=article&utm_campaign=readme) 
-  
+## 🧩 Compatibility 
+- **Works out of the box with** - [ Next.js. ](https://formengine.io/documentation/usage-with-nextjs?utm_source=github&utm_medium=article&utm_campaign=readme) 
+- **Fully supports** - [Remix.](https://formengine.io/documentation/usage-with-remix?utm_source=github&utm_medium=article&utm_campaign=readme) 
+
+## ✅ Validation
+- **Built-in Validation with Zod** — [Pre-configured validation powered by Zod](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
+- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
+
 ## Ready to use Pre-Built RSuite Form UI Components  
  ```bash  
  npm install @react-form-builder/components-rsuite  
  ```  
 [![Formengine Drag and n Drop](./readme-assets/components-ui.png)](https://formengine.io/react-form-components-library?utm_source=github&utm_medium=article_banne-dndr&utm_campaign=readme)
-
-##  Validation
-- **Built-in Validation with Zod** — [Pre-configured validation powered by Zod](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
-- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
 
 ## 🟦🟥🟨🟩 Custom components
 
@@ -231,17 +228,17 @@ export const matButton = define(Button, 'MatButton')
 - [GitHub Issues](https://github.com/optimajet/formengine/issues?utm_source=github&utm_medium=article&utm_campaign=readme) – Best for: bugs and errors you encounter using Formengine.  
 - [Email Support](mailto:support@optimajet.com?utm_source=github&utm_medium=article&utm_campaign=readme) – Best for: issues with Formengine libraries or environment.
 
-## A Premium On-Premise React Form Builder with Drag-and-Drop, built for SaaS and Enterprise Teams
+## A premium on-premise React Form Builder with drag-and-drop, built for SaaS and enterprise teams — backed by Optimajet Premium Support
 #### React Form Builder - That Developers Can Customize and Teams Can Use
 A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
 ```bash  
  npm install @react-form-builder/designer
  ```
-[![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 [![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 ![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_US-4286F4?style=for-the-badge&logo=calendar&logoColor=white&link=https://optimajet.com/book-a-meeting/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 
-[![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)]([https://formbuilder.formengine.io](https://formengine.io/documentation/#creating-a-form-using-designer)?utm_source=github&utm_medium=banner&utm_campaign=readme)
+[![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=github&utm_medium=banner&utm_campaign=readme)
 
 ## 🫶 We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
 #### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
