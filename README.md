@@ -1,4 +1,4 @@
-[![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io/documentation/#quick-start?utm_source=github&utm_medium=banner-top&utm_campaign=readme)
+[![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=banner-top&utm_campaign=readme#quick-start)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![npm](https://img.shields.io/npm/v/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
