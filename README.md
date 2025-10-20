@@ -142,13 +142,13 @@ export const App = () => (
  ```
 </details> 
 
-### 📦  It’s time to use something better. Formengine Core Installation..
+### 📦 Formengine Core Installation. It’s time to use something better.
 Install the core package and RSuite free form components:  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
 
-## ✨ Why developers love Formengine Core?
+## 💙 Why developers love Formengine Core?
 
 - **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
 - **Less Code, Fewer Bugs** – logic and UI stay separate.   
@@ -177,16 +177,20 @@ Install the core package and RSuite free form components:
 - [Source Code](https://github.com/optimajet/formengine/tree/master/community/src) 
  
 ## Next.js Integration
-  [Works out of the box with Next.js. ](https://formengine.io/documentation/usage-with-nextjs?utm_source=github&utm_medium=article&utm_campaign=readme) 
+  **Works out of the box with** - [ Next.js. ](https://formengine.io/documentation/usage-with-nextjs?utm_source=github&utm_medium=article&utm_campaign=readme) 
   
 ## Remix Compatibility
-[Fully supports Remix.](https://formengine.io/documentation/usage-with-remix?utm_source=github&utm_medium=article&utm_campaign=readme) 
+**Fully supports** - [Remix.](https://formengine.io/documentation/usage-with-remix?utm_source=github&utm_medium=article&utm_campaign=readme) 
   
 ## Ready to use Pre-Built RSuite Form UI Components  
  ```bash  
  npm install @react-form-builder/components-rsuite  
  ```  
 [![Formengine Drag and n Drop](./readme-assets/components-ui.png)](https://formengine.io/react-form-components-library?utm_source=github&utm_medium=article_banne-dndr&utm_campaign=readme)
+
+##  Validation
+- **Built-in Validation with Zod** — [Pre-configured validation powered by Zod](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
+- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
 
 ## 🟦🟥🟨🟩 Custom components
 
@@ -239,7 +243,7 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 
 [![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)]([https://formbuilder.formengine.io](https://formengine.io/documentation/#creating-a-form-using-designer)?utm_source=github&utm_medium=banner&utm_campaign=readme)
 
-## We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
+## 🫶 We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
 #### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
 
 [![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/#quick-start?utm_source=github&utm_medium=article-badge&utm_campaign=readme#quick-start)
