@@ -1,9 +1,11 @@
+# React json schema form builder
 [![Formengine](./readme-assets/Formengine_bigpicture_2.png)](https://formengine.io/documentation/?utm_source=nmpjs&utm_medium=banner-top&utm_campaign=readme#quick-start)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
-[![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://github.com/optimajet/formengine)
+[![Stars](https://img.shields.io/github/stars/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimajet/formengine/stargazers)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/optimajet/formengine/blob/master/LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
+[![Last commit](https://img.shields.io/github/last-commit/optimajet/formengine?style=for-the-badge&logo=git&logoColor=white&branch=master)](https://github.com/optimajet/formengine/commits/master)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
+[![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimajet/formengine/releases)
 <!-- ================================================================ -->
 ### Struggled with React Hook Form, Formik, or TanStack Form? You’re not alone. It’s time to use something better. Forms shouldn’t be this hard!
 
