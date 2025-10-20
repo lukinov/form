@@ -228,7 +228,7 @@ export const matButton = define(Button, 'MatButton')
 ## 🤝 Support & Community
 - [Community Forum](https://github.com/optimajet/formengine/discussions?utm_source=nmpjs&utm_medium=article&utm_campaign=readme) – Best for: help with building, discussion about React form best practices.  
 - [GitHub Issues](https://github.com/optimajet/formengine/issues?utm_source=nmpjs&utm_medium=article&utm_campaign=readme) – Best for: bugs and errors you encounter using Formengine.  
-- [Email Support](mailto:support@optimajet.com?utm_source=nmpjs&utm_medium=article&utm_campaign=readme) – Best for: issues with Formengine libraries or environment.
+- [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
 
 ## A premium on-premise React Form Builder with drag-and-drop, built for SaaS and enterprise teams — backed by Optimajet Premium Support
 #### React Form Builder - That Developers Can Customize and Teams Can Use
