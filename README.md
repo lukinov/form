@@ -141,8 +141,8 @@ export const App = () => (
  ```
 </details> 
 
-### 📦 Formengine Core Installation. It’s time to use something better.
-Install the core package and RSuite free form components:  
+### 📦 Formengine Core Installation. 
+**It’s time to use something better. Install the core package and RSuite free form components:**  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
@@ -240,9 +240,15 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 
 [![Formengine Drag and n Drop](./readme-assets/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=github&utm_medium=banner&utm_campaign=readme)
 
+
+### 📦 Formengine Core Installation. 
+**It’s time to use something better. Install the core package and RSuite free form components:**  
+ ```bash  
+ npm install @react-form-builder/core @react-form-builder/components-rsuite  
+ ``` 
 ## 🫶 We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
 #### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
-
+ 
 [![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/#quick-start?utm_source=github&utm_medium=article-badge&utm_campaign=readme#quick-start)
 [![LLMs.txt ](https://img.shields.io/badge/_LLMs.txt-FF69B4?style=for-the-badge)](https://formengine.io/llms?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/company/optimajet?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
