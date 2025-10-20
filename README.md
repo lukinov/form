@@ -187,7 +187,7 @@ export const App = () => (
  ```bash  
  npm install @react-form-builder/components-rsuite  
  ```  
-[![Formengine Drag and n Drop](./readme-assets/components-ui.png)](https://formengine.io/react-form-components-library?utm_source=github&utm_medium=article_banne-dndr&utm_campaign=readme)
+[![Formengine Drag and n Drop](https://formengine.io/repository-images/components-ui.png)](https://formengine.io/react-form-components-library?utm_source=github&utm_medium=article_banne-dndr&utm_campaign=readme)
 
 ## 🟦🟥🟨🟩 Custom components
 
