@@ -12,12 +12,12 @@
 - [FAQ](https://formengine.io/documentation/category/faq?utm_source=github&utm_medium=article&utm_campaign=readme)
 - [Guides](https://formengine.io/documentation/category/guides?utm_source=github&utm_medium=article&utm_campaign=readme)
 
-### 📦 Formengine Core Installation. 
+### 📦 Formengine Core Installation — MIT Licensed. 
 **Install the core package and RSuite free form components:**  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```
-### 📦 Formengine drag-and-drop Form Builder Installation. 
+### 📦 Formengine Drag-and-Drop Form Builder Installation — Commercial License. 
 **Install drag-and-drop Form Builder, built on top of the free, MIT-licensed FormEngine Core.**  
 ```bash  
  npm install @react-form-builder/designer
