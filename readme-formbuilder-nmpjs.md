@@ -8,9 +8,9 @@
 # An Enterprise-Grade React Form Builder with Drag-and-Drop for Complex Forms and No Performance Compromises
 
 ## 📘 Documentation
-- [Full Documentation](https://formengine.io/documentation/?utm_source=github&utm_medium=article&utm_campaign=readme#quick-start)
-- [FAQ](https://formengine.io/documentation/category/faq?utm_source=github&utm_medium=article&utm_campaign=readme)
-- [Guides](https://formengine.io/documentation/category/guides?utm_source=github&utm_medium=article&utm_campaign=readme)
+- [Full Documentation](https://formengine.io/documentation/?utm_source=npmjs&utm_medium=article&utm_campaign=readme#quick-start)
+- [FAQ](https://formengine.io/documentation/category/faq?utm_source=npmjs&utm_medium=article&utm_campaign=readme)
+- [Guides](https://formengine.io/documentation/category/guides?utm_source=npmjs&utm_medium=article&utm_campaign=readme)
 
 ### 📦 Formengine Core Installation — MIT Licensed. 
 **Install the core package and RSuite free form components:**  
@@ -23,18 +23,18 @@
  npm install @react-form-builder/designer
  ```
 
-[![Formengine Drag and n Drop](https://formengine.io/repository-images/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=github&utm_medium=banner&utm_campaign=readme)
+[![Formengine Drag and n Drop](https://formengine.io/repository-images/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=npmjs&utm_medium=banner&utm_campaign=readme)
 
 ## 🌍 Free Online Drag & Drop Form Builder  
-[![Try it now](https://img.shields.io/badge/FORM_BUILDER-%20✅%20ONLINE%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Try it now](https://img.shields.io/badge/FORM_BUILDER-%20✅%20ONLINE%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/?utm_source=npmjs&utm_medium=article-badge&utm_campaign=readme)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder?utm_source=npmjs&utm_medium=article-badge&utm_campaign=readme)
 [![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
-[![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_OPTIMAJET-4286F4?style=for-the-badge&logo=calendar&logoColor=white)](https://optimajet.com/book-a-meeting/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_OPTIMAJET-4286F4?style=for-the-badge&logo=calendar&logoColor=white)](https://optimajet.com/book-a-meeting/?utm_source=npmjs&utm_medium=article-badge&utm_campaign=readme)
 
 ## 🤝 Powered by Optimajet Premium Support, designed for SaaS and enterprise teams. 
 - [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
-- [Community Forum](https://github.com/optimajet/formengine/discussions?utm_source=github&utm_medium=article&utm_campaign=readme) – Best for: help with building, discussion about React form best practices.
-- [GitHub Issues](https://github.com/optimajet/formengine/issues?utm_source=github&utm_medium=article&utm_campaign=readme) – Best for: bugs and errors you encounter using Formengine.  
+- [Community Forum](https://github.com/optimajet/formengine/discussions?utm_source=npmjs&utm_medium=article&utm_campaign=readme) – Best for: help with building, discussion about React form best practices.
+- [GitHub Issues](https://github.com/optimajet/formengine/issues?utm_source=npmjs&utm_medium=article&utm_campaign=readme) – Best for: bugs and errors you encounter using Formengine.  
 
 ## 🗄️ Repository structure
 - **Community:** Formengine Core source code and examples for FormEngine Community (MIT license).
@@ -42,18 +42,18 @@
 - [Formengine Core Source Code](https://github.com/optimajet/formengine/tree/master/community/src) 
  
 ## 🧩 Compatibility 
-- **Works out of the box with** - [ Next.js. ](https://formengine.io/documentation/usage-with-nextjs?utm_source=github&utm_medium=article&utm_campaign=readme) 
-- **Fully supports** - [Remix.](https://formengine.io/documentation/usage-with-remix?utm_source=github&utm_medium=article&utm_campaign=readme) 
+- **Works out of the box with** - [ Next.js. ](https://formengine.io/documentation/usage-with-nextjs?utm_source=npmjs&utm_medium=article&utm_campaign=readme) 
+- **Fully supports** - [Remix.](https://formengine.io/documentation/usage-with-remix?utm_source=npmjs&utm_medium=article&utm_campaign=readme) 
 
 ## ✅ Validation
-- **Built-in Validation with Zod** — [Pre-configured validation powered by Zod](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme)
-- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation?utm_source=github&utm_medium=article&utm_campaign=readme#External)
+- **Built-in Validation with Zod** — [Pre-configured validation powered by Zod](https://formengine.io/documentation/validation?utm_source=npmjs&utm_medium=article&utm_campaign=readme)
+- **Extensible Validation Support** — [Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries](https://formengine.io/documentation/validation?utm_source=npmjs&utm_medium=article&utm_campaign=readme#External)
 
 ## Ready to use Pre-Built RSuite Form UI Components  
  ```bash  
  npm install @react-form-builder/components-rsuite  
  ```  
-[![Formengine Drag and n Drop](https://formengine.io/repository-images/components-ui.png)](https://formengine.io/react-form-components-library?utm_source=github&utm_medium=article_banne-dndr&utm_campaign=readme)
+[![Formengine Drag and n Drop](https://formengine.io/repository-images/components-ui.png)](https://formengine.io/react-form-components-library?utm_source=npmjs&utm_medium=article_banne-dndr&utm_campaign=readme)
 
 ## 🟦🟥🟨🟩 Custom components
 
