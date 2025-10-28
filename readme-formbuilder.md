@@ -1,16 +1,13 @@
 [![Formengine](https://formengine.io/repository-images/Formengine_FB_Hero.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=banner-top&utm_campaign=readme#quick-start)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
-[![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/designer?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
-[![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
-[![License MIT](https://img.shields.io/badge/License-EULA-green?style=for-the-badge)](https://optimajet.com/products/formengine/eula/)
-[![Last commit](https://img.shields.io/github/last-commit/optimajet/formengine?style=for-the-badge&logo=git&logoColor=white&branch=master)](https://github.com/optimajet/formengine/commits/master)
+[![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/#quick-start?utm_source=github&utm_medium=article-badge&utm_campaign=readme#quick-start)
+[![License](https://img.shields.io/badge/License-EULA-green?style=for-the-badge)](https://optimajet.com/products/formengine/eula/)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 [![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimajet/formengine/releases)
-[![Stars](https://img.shields.io/github/stars/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimajet/formengine/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/optimajet/formengine?style=for-the-badge&logo=git&logoColor=white&branch=master)](https://github.com/optimajet/formengine/commits/master)
 <!-- ================================================================ -->
 
-# React Form Builder with drag-and-drop.
+# Drag-and-drop React Form Builder
 
 ## 📘 Documentation
 - [Full Documentation](https://formengine.io/documentation/?utm_source=github&utm_medium=article&utm_campaign=readme#quick-start)
