@@ -247,7 +247,7 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ``` 
-## 🫶 We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
+## 🫶 We hope this project has saved you hours — [⭐ **star this repo** to support development](https://github.com/optimajet/formengine). Your support keeps Formengine Core open and free.
 #### Formengine Core — You’re not alone. Forms shouldn’t be this hard! 
  
 [![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/#quick-start?utm_source=nmpjs&utm_medium=article-badge&utm_campaign=readme#quick-start)
