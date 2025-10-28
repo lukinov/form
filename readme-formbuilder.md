@@ -6,155 +6,27 @@
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
-### Struggled with React Hook Form, Formik, or TanStack Form? You’re not alone. It’s time to use something better. Forms shouldn’t be this hard!
 
-#### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. Describe your form in JSON and render it across your apps. No hooks. No context. No boilerplate. No pain.
-
-### Simple Form Example
-[![Formengine](https://formengine.io/repository-images/simpleform.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
-### Simple Form JSON Example
-```JSON  
- {
-  "version": "1",
-  "form": {
-    "key": "Screen",
-    "type": "Screen",
-    "props": {},
-    "children": [
-      {
-        "key": "name",
-        "type": "RsInput",
-        "props": {
-          "label": {
-            "value": "Name"
-          }
-        }
-      },
-      {
-        "key": "email",
-        "type": "RsInput",
-        "props": {
-          "label": {
-            "value": "Email"
-          }
-        }
-      },
-      {
-        "key": "submit",
-        "type": "RsButton",
-        "props": {
-          "appearance": {
-            "value": "primary"
-          },
-          "children": {
-            "value": "Submit"
-          }
-        },
-        "events": {
-          "onClick": [
-            {
-              "name": "validate",
-              "type": "common"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "localization": {},
-  "languages": [
-    {
-      "code": "en",
-      "dialect": "US",
-      "name": "English",
-      "description": "American English",
-      "bidi": "ltr"
-    }
-  ],
-  "defaultLanguage": "en-US"
-}  
- ```  
-<details> 
-<summary> Click to see how you can define your entire form in JSON and render it with Formengine Core. </summary>
-
-
- ### Here’s a simple form example you can use in your React app.
-
-```tsx
-import { viewWithCss } from '@react-form-builder/components-rsuite'
-import { FormViewer } from '@react-form-builder/core'
-
-const simpleForm = {
-  version: '1',
-  form: {
-    key: 'Screen',
-    type: 'Screen',
-    props: {},
-    children: [
-      {
-        key: 'name',
-        type: 'RsInput',
-        props: { label: { value: 'Name' } },
-      },
-      {
-        key: 'email',
-        type: 'RsInput',
-        props: { label: { value: 'Email' } },
-      },
-      {
-        key: 'submit',
-        type: 'RsButton',
-        props: {
-          appearance: { value: 'primary' },
-          children: { value: 'Submit' },
-        },
-        events: {
-          onClick: [
-            { name: 'validate', type: 'common' }
-          ],
-        },
-      },
-    ],
-  },
-  localization: {},
-  languages: [
-    {
-      code: 'en',
-      dialect: 'US',
-      name: 'English',
-      description: 'American English',
-      bidi: 'ltr',
-    },
-  ],
-  defaultLanguage: 'en-US',
-}
-export const App = () => (
-  <FormViewer
-    view={viewWithCss}
-    getForm={() => simpleForm}
-    actions={{
-      onSubmit: (e) => {
-        alert('Form data: ' + JSON.stringify(e.data))
-      },
-    }}
-  />
-)
+## A premium on-premise React Form Builder with drag-and-drop, built for SaaS and enterprise teams — backed by Optimajet Premium Support
+#### React Form Builder - That Developers Can Customize and Teams Can Use
+A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
+```bash  
+ npm install @react-form-builder/designer
  ```
-</details> 
+[![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_OPTIMAJET-4286F4?style=for-the-badge&logo=calendar&logoColor=white)](https://optimajet.com/book-a-meeting/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 
-### 📦 Formengine Core Installation. 
-**It’s time to use something better. Install the core package and RSuite free form components:**  
- ```bash  
- npm install @react-form-builder/core @react-form-builder/components-rsuite  
- ```  
+[![Formengine Drag and n Drop](https://formengine.io/repository-images/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=github&utm_medium=banner&utm_campaign=readme)
 
-## 💙 Why developers love Formengine Core?
+## 🌍 Free Online Drag & Drop Form Builder  
+[![Try it now](https://img.shields.io/badge/FORM_BUILDER-%20✅%20ONLINE%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 
-- **Open Source & Free Forever** – no vendor lock-in, no nonsense. 
+## 💙 Why developers love Formengine?
+
 - **Less Code, Fewer Bugs** – logic and UI stay separate.   
 - **JSON-First Architecture** – define, render, and validate without touching React internals.
-- **UI-Agnostic Components** — Works seamlessly with any UI library (MUI, Ant Design, shadcn/ui, and others).  
-- **Framework-Agnostic** — Can also be used without any framework via CDN.  
 - **Multi-Database Support** — Compatible with MySQL, PostgreSQL, MongoDB, SQLite, and more.  
 - **Built-in Validation with Zod** — Pre-configured validation powered by Zod.  
 - **Extensible Validation Support** — Works with Yup, AJV, Zod, Superstruct, Joi, and other libraries.  
@@ -220,26 +92,11 @@ export const matButton = define(Button, 'MatButton')
     onClick: event,
   })
  ```
-## 🌍 Free Online Drag & Drop Form Builder  
-[![Try it now](https://img.shields.io/badge/FORM_BUILDER-%20✅%20ONLINE%20-brightgreen?style=for-the-badge)](https://formbuilder.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-COMPLEX_FORM_BUILDER-F58319?style=for-the-badge&logo=openai&logoColor=white)](https://formengine.io/ai-form-builder?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
 
 ## 🤝 Support & Community
 - [Community Forum](https://github.com/optimajet/formengine/discussions?utm_source=github&utm_medium=article&utm_campaign=readme) – Best for: help with building, discussion about React form best practices.  
 - [GitHub Issues](https://github.com/optimajet/formengine/issues?utm_source=github&utm_medium=article&utm_campaign=readme) – Best for: bugs and errors you encounter using Formengine.  
 - [Email Support](mailto:support@optimajet.com) – Best for: issues with Formengine libraries or environment.
-
-## A premium on-premise React Form Builder with drag-and-drop, built for SaaS and enterprise teams — backed by Optimajet Premium Support
-#### React Form Builder - That Developers Can Customize and Teams Can Use
-A powerful commercial drag-and-drop form builder for React, built on top of the free, MIT-licensed FormEngine Core. Advanced form logic, UI controls, export, and integrations.
-```bash  
- npm install @react-form-builder/designer
- ```
-[![Contributions welcome](https://img.shields.io/badge/Contribute-💡_Ideas-FF69B4?style=for-the-badge&logo=github)](https://github.com/optimajet/formengine/issues?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
-[![Try Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4286F4?style=for-the-badge)](https://demo.formengine.io/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
-[![Meet with US](https://img.shields.io/badge/Book%20a%20Meeting-WITH_OPTIMAJET-4286F4?style=for-the-badge&logo=calendar&logoColor=white)](https://optimajet.com/book-a-meeting/?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
-
-[![Formengine Drag and n Drop](https://formengine.io/repository-images/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=github&utm_medium=banner&utm_campaign=readme)
 
 
 ### 📦 Formengine Core Installation. 
