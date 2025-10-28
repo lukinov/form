@@ -1,9 +1,11 @@
 [![Formengine](https://formengine.io/repository-images/Formengine_FB_Hero.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=banner-top&utm_campaign=readme)
-[![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/installation?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Documentation](https://img.shields.io/badge/Doc-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/installation?utm_source=github&utm_medium=article-badge&utm_campaign=readme)
+[![Stars](https://img.shields.io/github/stars/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/stargazers)
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/designer?style=for-the-badge&logo=npm&color=4286F4&logoColor=white)](https://www.npmjs.com/package/@react-form-builder/designer?utm_source=github&utm_medium=banner-top&utm_campaign=readme)
 [![License](https://img.shields.io/badge/License-EULA-4286F4?style=for-the-badge&logoColor=white)](https://optimajet.com/products/formengine/eula/?utm_source=github&utm_medium=banner-top&utm_campaign=readme)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 [![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/releases?utm_source=github&utm_medium=banner-top&utm_campaign=readme)
+
 
 # An Enterprise-Grade React Form Builder with Drag-and-Drop for Complex Forms and No Performance Compromises
 
