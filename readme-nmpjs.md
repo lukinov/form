@@ -1,12 +1,12 @@
 # React json schema form builder
 [![Formengine](https://formengine.io/repository-images/Formengine_bigpicture_2.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=banner-top&utm_campaign=readme#quick-start)
-<!-- ==================== FORMENGINE CORE BADGES ==================== -->
-[![Stars](https://img.shields.io/github/stars/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimajet/formengine/stargazers)
-[![License MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/optimajet/formengine/blob/master/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/optimajet/formengine?style=for-the-badge&logo=git&logoColor=white&branch=master)](https://github.com/optimajet/formengine/commits/master)
-[![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
-[![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white)](https://github.com/optimajet/formengine/releases)
-<!-- ================================================================ -->
+[![Stars](https://img.shields.io/github/stars/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/stargazers)
+[![License MIT](https://img.shields.io/badge/License-MIT-4286F4?style=for-the-badge&logoColor=white)](https://github.com/optimajet/formengine/blob/master/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/optimajet/formengine?style=for-the-badge&logo=git&logoColor=white&color=4286F4&branch=master)](https://github.com/optimajet/formengine/commits/master)
+[![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
+[![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/releases)
+
+
 ### Struggled with React Hook Form, Formik, or TanStack Form? You’re not alone. It’s time to use something better. Forms shouldn’t be this hard!
 
 #### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. Describe your form in JSON and render it across your apps. No hooks. No context. No boilerplate. No pain.
