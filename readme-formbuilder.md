@@ -5,7 +5,7 @@
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 [![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/releases?utm_source=github&utm_medium=banner-top&utm_campaign=readme)
 
-# Enterprise-Grade Drag-and-Drop Form Builder for Complex React Forms
+# An Enterprise-Grade React Form Builder with Drag-and-Drop for Complex Forms and No Performance Compromises
 
 ## 📘 Documentation
 - [Full Documentation](https://formengine.io/documentation/?utm_source=github&utm_medium=article&utm_campaign=readme#quick-start)
