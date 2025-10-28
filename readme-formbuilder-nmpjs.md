@@ -88,7 +88,7 @@ export const matButton = define(Button, 'MatButton')
   })
  ```
 
-## 🫶 We hope this project has saved you hours — ⭐ **star this repo** to support development. Your support keeps Formengine Core open and free.
+## 🫶 We hope this project has saved you hours — [⭐ **star this repo** to support development](https://github.com/optimajet/formengine/stargazers). Your support keeps Formengine Core open and free.
 #### Formengine — You’re not alone. Forms shouldn’t be this hard! 
  
 [![Documentation](https://img.shields.io/badge/Documentation-Install-4286F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://formengine.io/documentation/#quick-start?utm_source=github&utm_medium=article-badge&utm_campaign=readme#quick-start)
