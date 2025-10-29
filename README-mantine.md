@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-	<a href="https://formengine.io/react-form-builder-library/" target="_blank">
+	<a href="https://formengine.io/react-form-builder-library/?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme" target="_blank">
 		<sup>Special thanks to:</sup>
 		<br>
 		<img alt="Warp sponsorship" width="400" src="https://github.com/lukinov/react-forms/blob/main/readme-assets/banner.png">
