@@ -9,16 +9,16 @@
 		<sup>Available for macOS, Linux and Windows</sup>
 	</a>
 </div>
-
+<br>
 <div align="center">
 	<a href="https://go.warp.dev/mantine" target="_blank">
 		<sup>Special thanks to:</sup>
 		<br>
 		<img alt="Warp sponsorship" width="400" src="https://github.com/lukinov/react-forms/blob/main/readme-assets/banner.png">
 		<br>
-		<h>Warp, built for coding with multiple AI agents</b>
+		<h>Drag and Drop React Form Builder Library</b>
 		<br>
-		<sup>Available for macOS, Linux and Windows</sup>
+		<sup>Quickly build complex forms yourself or integrate it to let end-users design dynamic forms without writing code.</sup>
 	</a>
 </div>
 
