@@ -9,11 +9,12 @@
 		<sup>Available for macOS, Linux and Windows</sup>
 	</a>
 </div>
+
 <div align="center">
 	<a href="https://go.warp.dev/mantine" target="_blank">
 		<sup>Special thanks to:</sup>
 		<br>
-		<img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png">
+		<img alt="Warp sponsorship" width="400" src="https://github.com/lukinov/react-forms/blob/main/readme-assets/banner.png">
 		<br>
 		<h>Warp, built for coding with multiple AI agents</b>
 		<br>
