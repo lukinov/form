@@ -62,18 +62,6 @@
 	<a href="https://formengine.io/react-form-builder-library/?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme" target="_blank">
 		<sup>Special thanks to:</sup>
 		<br>
-		<img alt="Warp sponsorship" width="400" src="https://github.com/lukinov/react-forms/blob/main/readme-assets/banner5.png">
-		<br>
-		<h>Drag and Drop React Form Builder Library</b>
-		<br>
-		<sup>Quickly build complex forms yourself or integrate it to let end-users design dynamic forms without writing code.</sup>
-	</a>
-</div>
-<br>
-<div align="center">
-	<a href="https://formengine.io/react-form-builder-library/?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme" target="_blank">
-		<sup>Special thanks to:</sup>
-		<br>
 		<img alt="Warp sponsorship" width="400" src="https://github.com/lukinov/react-forms/blob/main/readme-assets/banner.png">
 		<br>
 		<h>Drag and Drop React Form Builder Library</b>
