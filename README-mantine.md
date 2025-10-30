@@ -22,6 +22,7 @@
 	</a>
 </div>
 <br>
+<!--
 <div align="center">
 	<a href="https://formengine.io/react-form-builder-library/?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme" target="_blank">
 		<sup>Special thanks to:</sup>
@@ -71,7 +72,7 @@
 	</a>
 </div>
 <br>
-
+-->.
 
 # Mantine
 
