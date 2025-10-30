@@ -16,7 +16,7 @@
 		<br>
 		<img alt="Warp sponsorship" width="400" src="https://github.com/lukinov/react-forms/blob/main/readme-assets/banner2.png">
 		<br>
-		<h>Drag and Drop React Form Builder Library</b>
+		<h>Drag and Drop React Complex Form Builder Library</b>
 		<br>
 		<sup>Quickly build complex forms yourself or integrate it to let end-users design dynamic forms without writing code.</sup>
 	</a>
